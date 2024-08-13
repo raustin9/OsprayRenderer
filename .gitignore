@@ -1,0 +1,5 @@
+bin
+obj
+
+!bin/.keep
+!obj/.keep
